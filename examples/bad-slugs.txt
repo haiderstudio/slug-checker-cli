@@ -1,0 +1,8 @@
+My First Post
+my_first_post
+-leading-hyphen
+trailing-hyphen-
+double--hyphen
+café-guide
+my/post
+UPPERCASE
